@@ -1,0 +1,3 @@
+DELETE FROM Nilai WHERE KelasID = 209;
+
+DELETE FROM Kelas WHERE KelasID = 209;
